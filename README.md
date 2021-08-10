@@ -42,3 +42,5 @@ Chess
 Competitive Programming
 cricket
 I’m looking to collaborate on developing anything that will help India.
+[![Harinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harinathmallela)](https://github.com/anuraghazra/github-readme-stats)
+
