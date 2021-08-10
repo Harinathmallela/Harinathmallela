@@ -1,46 +1,37 @@
-
-
-<!--
-**Harinathmallela/Harinathmallela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Hi 👋 I'm Harinath Mallela
-
-Data Scientist
-
-Connect with me:
-harinathmallela78@gmail.com
+<h1 align="center">Hi 👋 I'm Harianth Mallela</h1>
+<h3 align="center">Data Scientist</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/harinath-mallela-a84861a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="susmit-vengurlekar" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/harinathmallela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="susmitpy03" height="30" width="40" /></a>
+<a href="mailto:harinathmallela78@gmail.com" target="blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-500x281.png" alt="@harinathmallela78" height="30" width="40" /></a>
+</p>
 
 Some Services that I offer:
-Building machine learning models and Evaluating
 
-Automating repetitive work like data entry in Excel, any online form
+1) Web scraping using Selenium, BeautifulSoup,and Scrapy. 
 
-Crunching data from excel, CSV, XML, etc. And viewing analysis report
+2) Crunching data from excel, CSV, XML, etc.  And viewing analysis report.
 
-Getting specific information from web into Excel sheets , etc
+3) Cleaning and processing the data
 
-Automating repetitive tasks like image resize, image format conversion, file size reduction
+4) visualizing and drawing insights from the data.
 
-Languages and Tools:
-python C
-mysql
-scikit_learn selenium
+5) Model building and Evaluation.
 
-Hobbies:
-Chess
-Competitive Programming
-cricket
-I’m looking to collaborate on developing anything that will help India.
-[![Harinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harinathmallela)](https://github.com/anuraghazra/github-readme-stats)
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a href="https://numpy.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/50221806/86498227-c985dc00-bd39-11ea-9135-3e82bab6d664.png" alt="Numpy logo. A three-dimensional blue cube with the letter 'N' highlighted in yellow." width="40" height="40"/> <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01Ctpf3nRjz7b9l-om2h2llNA0jL4d_MVtXXXHVF5mWIn5nyMXLgzYscFGZdbhf_LN8M&usqp=CAU" alt="python" width="40" height="40"/><a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> 
+    
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>   </a><a href="https://seaborn.pydata.org/" target="_blank"> <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" alt="seaborn" width="40" height="40"/>  </a><a href="https://matplotlib.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="matplotlib" width="40" height="40"/>
+    
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Harinathmallela&show_icons=true&locale=en" alt="harinath" /></p>
+    
+<h3 align="left">Hobbies:</h3>
+    
+  - Chess
+    
+  - Cricket
+    
+    
+ I’m looking to collaborate on Data Science Role.
